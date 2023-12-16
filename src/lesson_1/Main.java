@@ -18,7 +18,7 @@ public class Main {
 
         //Задача №2
         System.out.print("Введите имя пользователя: ");
-        System.out.print("Hello " + scanner.nextLine() + "!");
+        System.out.println("Hello " + scanner.nextLine() + "!");
         System.out.println();
 
         //Задача №3
@@ -29,6 +29,5 @@ public class Main {
         System.out.print("Введите второе число: ");
         int numberB = scanner.nextInt();
         System.out.println("Сумма чисел " + numberA + " и " + numberB + " равна " + (numberA + numberB));
-
     }
 }
