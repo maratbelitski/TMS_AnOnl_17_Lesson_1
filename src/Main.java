@@ -1,11 +1,9 @@
-package lesson_1;
-
 import java.util.Scanner;
 
 /**
  * @author Belitski Marat
  * @date 14.12.2023
- * @project TMS_AnOnl_17_Java
+ * @project TMS_AnOnl_17_Lesson_1
  */
 
 public class Main {
